@@ -1,0 +1,16 @@
+C:\Users\jornped\Desktop\testTasks\strCalc\bin\Debug\net5.0\strCalc.exe
+C:\Users\jornped\Desktop\testTasks\strCalc\bin\Debug\net5.0\strCalc.deps.json
+C:\Users\jornped\Desktop\testTasks\strCalc\bin\Debug\net5.0\strCalc.runtimeconfig.json
+C:\Users\jornped\Desktop\testTasks\strCalc\bin\Debug\net5.0\strCalc.runtimeconfig.dev.json
+C:\Users\jornped\Desktop\testTasks\strCalc\bin\Debug\net5.0\strCalc.dll
+C:\Users\jornped\Desktop\testTasks\strCalc\bin\Debug\net5.0\ref\strCalc.dll
+C:\Users\jornped\Desktop\testTasks\strCalc\bin\Debug\net5.0\strCalc.pdb
+C:\Users\jornped\Desktop\testTasks\strCalc\obj\Debug\net5.0\strCalc.csprojAssemblyReference.cache
+C:\Users\jornped\Desktop\testTasks\strCalc\obj\Debug\net5.0\strCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jornped\Desktop\testTasks\strCalc\obj\Debug\net5.0\strCalc.AssemblyInfoInputs.cache
+C:\Users\jornped\Desktop\testTasks\strCalc\obj\Debug\net5.0\strCalc.AssemblyInfo.cs
+C:\Users\jornped\Desktop\testTasks\strCalc\obj\Debug\net5.0\strCalc.csproj.CoreCompileInputs.cache
+C:\Users\jornped\Desktop\testTasks\strCalc\obj\Debug\net5.0\strCalc.dll
+C:\Users\jornped\Desktop\testTasks\strCalc\obj\Debug\net5.0\ref\strCalc.dll
+C:\Users\jornped\Desktop\testTasks\strCalc\obj\Debug\net5.0\strCalc.pdb
+C:\Users\jornped\Desktop\testTasks\strCalc\obj\Debug\net5.0\strCalc.genruntimeconfig.cache

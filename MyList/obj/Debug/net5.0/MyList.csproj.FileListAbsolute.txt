@@ -1,0 +1,16 @@
+C:\Users\jornped\Desktop\testTasks\MyList\bin\Debug\net5.0\MyList.exe
+C:\Users\jornped\Desktop\testTasks\MyList\bin\Debug\net5.0\MyList.deps.json
+C:\Users\jornped\Desktop\testTasks\MyList\bin\Debug\net5.0\MyList.runtimeconfig.json
+C:\Users\jornped\Desktop\testTasks\MyList\bin\Debug\net5.0\MyList.runtimeconfig.dev.json
+C:\Users\jornped\Desktop\testTasks\MyList\bin\Debug\net5.0\MyList.dll
+C:\Users\jornped\Desktop\testTasks\MyList\bin\Debug\net5.0\ref\MyList.dll
+C:\Users\jornped\Desktop\testTasks\MyList\bin\Debug\net5.0\MyList.pdb
+C:\Users\jornped\Desktop\testTasks\MyList\obj\Debug\net5.0\MyList.csprojAssemblyReference.cache
+C:\Users\jornped\Desktop\testTasks\MyList\obj\Debug\net5.0\MyList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jornped\Desktop\testTasks\MyList\obj\Debug\net5.0\MyList.AssemblyInfoInputs.cache
+C:\Users\jornped\Desktop\testTasks\MyList\obj\Debug\net5.0\MyList.AssemblyInfo.cs
+C:\Users\jornped\Desktop\testTasks\MyList\obj\Debug\net5.0\MyList.csproj.CoreCompileInputs.cache
+C:\Users\jornped\Desktop\testTasks\MyList\obj\Debug\net5.0\MyList.dll
+C:\Users\jornped\Desktop\testTasks\MyList\obj\Debug\net5.0\ref\MyList.dll
+C:\Users\jornped\Desktop\testTasks\MyList\obj\Debug\net5.0\MyList.pdb
+C:\Users\jornped\Desktop\testTasks\MyList\obj\Debug\net5.0\MyList.genruntimeconfig.cache
